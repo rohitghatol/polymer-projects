@@ -20,7 +20,7 @@ Web Components
 This project will check out following web components
 
 * [kinoscribe](https://github.com/rohitghatol/kinoscribe "https://github.com/rohitghatol/kinoscribe") - A Prezi like Presentation tool webcomponent but in HTML5
-* kinolayouts - Layouts for Presentations or Other Contents
-* kinoshapes - Various Shapes that you can embed in your Presentations or Other Contents
+*  [kinolayouts](https://github.com/rohitghatol/kinolayouts "https://github.com/rohitghatol/kinolayouts")  - Layouts for Presentations or Other Contents
+* [kinoshapes](https://github.com/rohitghatol/kinoshapes "https://github.com/rohitsghatol/kinoshapes") - Various Shapes that you can embed in your Presentations or Other Contents
 
 
